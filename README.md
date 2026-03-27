@@ -1,4 +1,4 @@
-# Contextualize OntologyMapper Query
+# QueryContextBuilder
 
 LLM-based CLI tool that summarizes cancer clinical metadata from a CSV file
 using Claude. Each unique `source` entry gets a clinical prose summary
